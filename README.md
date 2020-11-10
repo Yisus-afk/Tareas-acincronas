@@ -1,2 +1,2 @@
 # Tareas-acincronas
-Miercoles-Viernes
+Miercoles
